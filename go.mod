@@ -1,3 +1,3 @@
-module github.com/RebirthLee/ddd6-server-seminar
+module github.com/2rebi/ddd6-server-seminar
 
 go 1.17
